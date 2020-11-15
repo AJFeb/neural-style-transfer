@@ -1,0 +1,9 @@
+params:
+    q: joker comic art
+    num: 10
+    fileType: jpg
+    imgType: photo
+    imgSize: MEDIUM
+    #'safe': 'high',
+    #'imgDominantColor': 'white',
+out_dir: images/comics
