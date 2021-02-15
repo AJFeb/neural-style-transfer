@@ -1,6 +1,6 @@
 params:
     q: joker comic art
-    num: 10
+    num: 1000
     fileType: jpg
     imgType: photo
     imgSize: MEDIUM
